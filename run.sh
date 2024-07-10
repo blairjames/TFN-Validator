@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 main() {
- sudo docker run --rm -it tfn-validator || exit 1
+ sudo docker run --rm -it docker.io/blairy/tfn-validator || exit 1
 }
 
 main
