@@ -6,6 +6,7 @@ Run as a Python script or as a Docker container.
 
 ```
 
+$ ./tfn_validator.py
 $ ./build.sh
 $ ./run.sh
 
