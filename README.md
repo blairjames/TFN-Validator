@@ -11,3 +11,19 @@ $ ./build.sh
 $ ./run.sh
 
 ```
+
+### Example
+
+```
+
+$ ./tfn_validator.py
+Enter potential TFN: 149149149
+149149149 is a valid TFN.
+
+$ ./tfn_validator.py
+Enter potential TFN: 123456789
+123456789 is NOT a valid TFN.
+
+```
+
+
